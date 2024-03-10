@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    justify-content: center;
+      
+  }
+
+.um{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    border-collapse: collapse;
+}
+
+.tabela {
+    width: 99%;
+    border-collapse: collapse;
+  }
+
+  .tabela th, .tabela td {
+    border: 1px solid #000000; 
+    padding: 8px;
+    text-align: center;
+    padding: 2vh;
+  }
+
+ .maria{
+    background-color: #f2f2f2;
+ }
+ 
+ .julia{
+    background-color: #f2f2f2;
+ }
+
+ .elizabete{
+    background-color: #f2f2f2;
+ }
